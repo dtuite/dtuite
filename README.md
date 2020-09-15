@@ -3,7 +3,7 @@
 I'm the founder of [roadie.io](https://roadie.io). Roadie helps companies understand and operate
 their microservices by offering [Backstage](https://github.com/spotify/backstage) as a service.
 
-![Backstage logo exploding into the logos of lots of other developer tools and coming back together](./backstage-explosion.gif)
+![Backstage logo exploding into the logos of lots of other developer tools and coming back together](https://github.com/dtuite/dtuite/blob/master/backstage-explosion.gif)
 
 Backstage is a service catalog which automatically tracks all of your microservices.
 
