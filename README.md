@@ -12,4 +12,8 @@ by Spotify and has been used there since 2016.
 - Twitter: [@dtuite](https://twitter.com/dtuite)
 - LinkedIn: [David Tuite](https://www.linkedin.com/in/davidtuite/)
 
+## Stats
+
 ![counter](http://enhjh53jo9zumy3.m.pipedream.net.m.pipedream.net)
+
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=dtuite&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
