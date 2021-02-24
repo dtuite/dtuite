@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dtuite-readme
+  annotations:
+    github.com/project-slug: dtuite/dtuite
+  namespace: default
+spec:
+  type: other
+  lifecycle: unknown
+  owner: User:david
